@@ -1,0 +1,46 @@
+.create-icon{
+    border: 1px solid #ffffff;
+    padding: 5px 5px 5px 5px;
+    border-radius: 8px;
+    color: #111111;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 5px #111111;
+}
+
+.assignment{
+    margin-left: 100px;
+}
+
+.assignment-grid{
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 12px 12px 12px 12px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 75px;
+    /* height: 100%; */
+}
+
+.icon-2{
+    color: #111111;
+    padding-top: 12px;
+}
+
+.button-div{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px
+}
+.button-2{
+    display: flex;
+    gap:7px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}

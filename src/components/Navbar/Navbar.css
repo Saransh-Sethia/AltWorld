@@ -1,0 +1,63 @@
+.navbar{
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 15px
+}
+
+.navbar-heading{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.heading{
+    font-size: 20px;
+    font-weight: 500;
+}
+.heading-icon{
+    padding-top: 20px;
+}
+
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.home-icon{
+    padding-top: 17px;
+    border-radius: 8px;
+    color: #0c9472;
+}
+
+.add-icon{
+    border: 1px solid #ffffff;
+    color:#8b918f;
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 5px 5px 5px 5px;
+    font-weight: 800;
+}
+
+.button{
+    border:1px solid #ffffff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    background-color: #ffffff;
+    color:#111111;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.new-assignment{
+    border: 1px solid #0c9472;
+    background-color: #0c9472;
+    border-radius: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
