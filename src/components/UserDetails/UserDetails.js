@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import axios from "axios";
+import React, { useState } from "react";
 import "./UserDetails.css";
 import users from "../../users";
 import { useParams } from "react-router-dom";
