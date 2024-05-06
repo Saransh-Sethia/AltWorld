@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './Assignment.css';
+import axios from 'axios';
+import config from '../../config';
 
 import CreateIcon from '@mui/icons-material/Create';
 import ViewInArIcon from '@mui/icons-material/ViewInAr';
@@ -7,6 +9,23 @@ import FileCopyIcon from '@mui/icons-material/FileCopy';
 import User from '../User/User';
 
 const Assignment = () => {
+  const [details, setDetails] = useState([]);
+
+  const fetchData = async() => {
+    try{
+      const response = await axios.get(`${config.endpoint}`);
+      const result = response.data;
+      console.log('result',result);
+      setDetails(result)
+    } catch(error){
+      console.log('error', error);
+    }
+  };
+
+  useEffect(()=>{
+    fetchData();
+  },[]);
+
   return (
     <div className='assignment'>
       <h4>Sales BDE</h4>
@@ -35,7 +54,7 @@ const Assignment = () => {
     </div>
   
       </div>
-      <User />
+      <User details={details} />
     </div>
   )
 }

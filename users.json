@@ -1,0 +1,108 @@
+ {
+ "details" :  [
+    {
+        "id": 1,
+        "name" : "Rohit Sharma",
+        "email" : "rohit@gmail.com",
+        "score" : "78%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 2,
+        "name" : "Virat Kohli",
+        "email" : "virat@gmail.com",
+        "score" : "72%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 3,
+        "name" : "Yashasvi Jaiswal",
+        "email" : "yash@gmail.com",
+        "score" : "64%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 4,
+        "name" : "Rinku Singh",
+        "email" : "rinku@gmail.com",
+        "score" : "60%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 5,
+        "name" : "Hardik Pandya",
+        "email" : "hardy@gmail.com",
+        "score" : "32%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 6,
+        "name" : "Rishabh Pant",
+        "email" : "rishu@gmail.com",
+        "score" : "60%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 7,
+        "name" : "Mohd Shami",
+        "email" : "shami@gmail.com",
+        "score" : "70%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 8,
+        "name" : "Mohd Siraj",
+        "email" : "siraj@gmail.com",
+        "score" : "44%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 9,
+        "name" : "Jasprit Bumrah",
+        "email" : "jassy@gmail.com",
+        "score" : "58%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    },
+    {
+        "id": 10,
+        "name" : "Yuzi Chahal",
+        "email" : "yuzi@gmail.com",
+        "score" : "49%",
+        "About" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Experience" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Hobbies" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut.",
+        "Introduction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci quis libero. Integer ullamcorper justo a metus ornare tristique. Proin lobortis erat quam, sit amet malesuada justo suscipit ut."
+    }
+
+]
+
+ }
+
+

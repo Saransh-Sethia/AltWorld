@@ -1,0 +1,23 @@
+.heading-2{
+   padding-left: 150px;
+}
+
+.email{
+    color: #615f5f;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.heading-1{
+    display: grid;
+    grid-template-columns: 0.7fr 0.3fr;
+};
+
+.btn-2{
+    border: 1px solid #c0c0c0;
+    font-size: 25px;
+    font-weight: 500;
+    color: #ffffff
+}

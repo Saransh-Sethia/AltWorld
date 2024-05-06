@@ -1,68 +1,72 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./UserDetails.css";
-import users from "../../users";
 import { useParams } from "react-router-dom";
+import axios from "axios";
+import config from "../../config";
 
 const UserDetails = () => {
   const { id } = useParams();
-  const [user, setUser] = useState(users);
+  const [userDetails, setUserDetails] = useState([]);
+
+  const fetchDetails = async () => {
+    try {
+      const response = await axios.get(`${config.endpoint}/${id}`);
+      const result = response.data;
+      const resArr = [];
+      resArr.push(result);
+      console.log("result2", result);
+      setUserDetails(resArr);
+    } catch (error) {
+      console.log("error-2", error);
+    }
+  };
+
+  useEffect(() => {
+    fetchDetails();
+  }, []);
 
   return (
     <>
-      <div>
-        <h2>About</h2>
-        <h3 style={{color:'#615f5f'}}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit
-          massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex
-          diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor
-          eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed
-          venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci
-          quis libero. Integer ullamcorper justo a metus ornare tristique. Proin
-          lobortis erat quam, sit amet malesuada justo suscipit ut.
-        </h3>
-      </div>
-      <br />
-      
-      <div>
-        <h2>Experience</h2>
-        <h3 style={{color:'#615f5f'}}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit
-          massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex
-          diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor
-          eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed
-          venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci
-          quis libero. Integer ullamcorper justo a metus ornare tristique. Proin
-          lobortis erat quam, sit amet malesuada justo suscipit ut.
-        </h3>
-      </div>
-      <br />
-      
-      <div>
-        <h2>Hobbies</h2>
-        <h3 style={{color:'#615f5f'}}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit
-          massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex
-          diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor
-          eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed
-          venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci
-          quis libero. Integer ullamcorper justo a metus ornare tristique. Proin
-          lobortis erat quam, sit amet malesuada justo suscipit ut.
-        </h3>
-      </div>
-      <br />
-      
-      <div>
-        <h2>Introduction</h2>
-        <h3 style={{color:'#615f5f'}}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit
-          massa sem, ut fringilla lacus condimentum et. Phasellus dignissim ex
-          diam, eu imperdiet nulla sagittis sodales. Sed maximus eleifend dolor
-          eu accumsan. Phasellus eu finibus risus. Duis sagittis, velit sed
-          venenatis dictum, nulla sem volutpat erat, posuere tempus purus orci
-          quis libero. Integer ullamcorper justo a metus ornare tristique. Proin
-          lobortis erat quam, sit amet malesuada justo suscipit ut.
-        </h3>
-      </div>
+      {userDetails.map((detail) => (
+        <div key={detail.id}>
+          <div className="heading-1">
+            <div className="heading-2">
+              <h2>{detail.name}</h2>
+              <h4 className="email">{detail.email}</h4>
+            </div>
+            <h1
+              style={{
+                color: `${detail.score > "50" ? "#0cab41" : "#d9d20b"}`,
+              }}
+            >
+              {detail.score}
+            </h1>
+          </div>
+          <div>
+            <h2>About</h2>
+            <h3 style={{ color: "#615f5f" }}>{detail.About}</h3>
+          </div>
+          <br />
+
+          <div>
+            <h2>Experience</h2>
+            <h3 style={{ color: "#615f5f" }}>{detail.Experience}</h3>
+          </div>
+          <br />
+
+          <div>
+            <h2>Hobbies</h2>
+            <h3 style={{ color: "#615f5f" }}>{detail.Hobbies}</h3>
+          </div>
+          <br />
+
+          <div>
+            <h2>Introduction</h2>
+            <h3 style={{ color: "#615f5f" }}>{detail.Introduction}</h3>
+          </div>
+          <div className="btn-2">Shortlist</div>
+        </div>
+      ))}
     </>
   );
 };
